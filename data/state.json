@@ -1,5 +1,28 @@
 {
- "lastRunUtc": "2026-10-14T00:00:00",
- "lastRunDate": "2026-10-14",
- "note": "First run looks back from the date of the original Find a Tender exports."
+ "lastRunUtc": "2026-10-27T11:37:37",
+ "lastRunDate": "2026-10-27",
+ "note": "First run looks back from the date of the original Find a Tender exports.",
+ "lastSummary": {
+  "added": 63,
+  "updated": 33,
+  "closed": 47,
+  "newAwards": 436,
+  "notWales": 4090,
+  "notices": 720,
+  "awards": 1910,
+  "tools": 786
+ },
+ "log": [
+  "Run 2026-10-27 11:37 UK · looking for notices updated since 2026-10-13 00:00 UTC",
+  "  429 from server, waiting 121s",
+  "  429 from server, waiting 121s",
+  "Find a Tender: 49 page(s) read",
+  "Find a Tender: 4894 release(s)",
+  "  Sell2Wales 10-2026 type 1: skipped (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.sell2wales.gov.wales'. (_ssl.c:1010)>)",
+  "  Sell2Wales 10-2026 type 2: skipped (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.sell2wales.gov.wales'. (_ssl.c:1010)>)",
+  "  Sell2Wales 10-2026 type 51: skipped (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.sell2wales.gov.wales'. (_ssl.c:1010)>)",
+  "  Sell2Wales 10-2026 type 52: skipped (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.sell2wales.gov.wales'. (_ssl.c:1010)>)",
+  "Sell2Wales: 0 release(s)",
+  "Summary: added 63, updated 33, closed 47, newAwards 436, notWales 4090, notices 720, awards 1910, tools 786"
+ ]
 }

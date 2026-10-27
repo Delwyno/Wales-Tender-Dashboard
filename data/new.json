@@ -1,0 +1,1658 @@
+{
+ "date": "2026-10-27",
+ "count": 63,
+ "notices": [
+  {
+   "t": "INSPECTION & TESTING OF UHW, UHL AND WOODLAND HOUSE HIGH VOLTAGE EQUIPMENT",
+   "b": "Cardiff and Vale University Health Board",
+   "las": [
+    "Vale of Glamorgan",
+    "Cardiff"
+   ],
+   "s": "construction",
+   "cpv": [
+    "50711000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0790de",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-0790de",
+   "st": "active",
+   "nd": "2026-11-23",
+   "ndt": "submit",
+   "v": 300000,
+   "d": "Cardiff and Vale University Health Board have a requirement for the inspection and maintenance for the low voltage and high voltage switchgear located across all UHB Sites (University Hospital of Wales, University Hospital Llandough, Barry Hospital, Woodland House, and Genomics). The purpose of hig…",
+   "cs": "2027-01-11",
+   "ce": "2031-01-10",
+   "sme": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Ysgol Y Deri Cleaning Contract",
+   "b": "Vale of Glamorgan Council",
+   "las": [
+    "Vale of Glamorgan"
+   ],
+   "s": "environment",
+   "cpv": [
+    "90919300",
+    "90910000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06e05a",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-06e05a",
+   "st": "active",
+   "nd": "2026-11-23",
+   "ndt": "submit",
+   "v": 900000,
+   "d": "Ysgol y Deri Special School (“the School”) wishes to purchase cleaning services for the School Buildings. The School is situated on four sites. Ysgol y Deri Penarth site with a main school building, Ty Deri building, Annexe building and a set of demountable classrooms. Ysgol y Deri Barry site which…",
+   "cs": "2027-04-01",
+   "ce": "2029-03-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Supply of OHL Stay Wire",
+   "b": "National Grid Electricity Distribution PLC",
+   "las": [],
+   "s": "construction",
+   "cpv": [
+    "44311000",
+    "44333000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0790c9",
+   "xb": true,
+   "cat": "Goods",
+   "id": "ocds-h6vhtk-0790c9",
+   "st": "planned",
+   "nd": "2026-11-23",
+   "ndt": "publish",
+   "d": "National Grid Electricity Distribution is running a tender for the supply of OHL Stay Wire. This equipment shall be supplied in accordance to NGED's Engineering Specification OH4L/2 which will be shared at tender stage, and will be supplied across various NGED sites in the East & West Midlands, Sou…",
+   "cs": "2027-04-01",
+   "ce": "2032-04-01",
+   "tool": true,
+   "proc": "Competitive flexible procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Contract for the Provision of General Carpentry Maintenance",
+   "b": "Police and Crime Commissioner for South Wales",
+   "las": [],
+   "s": "construction",
+   "cpv": [
+    "45420000",
+    "50000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078e86",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078e86",
+   "st": "active",
+   "nd": "2026-11-26",
+   "ndt": "submit",
+   "v": 6000000,
+   "d": "South Wales Police are seeking a Contractor to provide planned and reactive carpentry services, together with associated works.",
+   "cs": "2027-03-01",
+   "ce": "2031-02-28",
+   "sme": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "BCU-ITT-64411 - YGC Drop Down Mortuary",
+   "b": "Betsi Cadwaladr University Health Board",
+   "las": [
+    "Conwy",
+    "Denbighshire"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-07906d",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-07906d",
+   "st": "active",
+   "nd": "2026-11-25",
+   "ndt": "submit",
+   "v": 303000,
+   "d": "Betsi Cadwaladr University Health Board (BCUHB) requires a suitably qualified and experienced contractor to undertake the installation of a new modular mortuary facility and associated external works at the Mortuary Department, Glan Clwyd Hospital, Bodelwyddan. The project comprises the provision o…",
+   "cs": "2027-01-11",
+   "ce": "2027-03-31",
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Water Retail Services",
+   "b": "Severn Trent Water Limited",
+   "las": [],
+   "s": "energy",
+   "cpv": [
+    "65100000",
+    "71800000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-079054",
+   "xb": true,
+   "cat": "Services",
+   "id": "ocds-h6vhtk-079054",
+   "st": "pme",
+   "nd": "2026-11-09",
+   "ndt": "engage",
+   "d": "Severn Trent Water is looking to appoint a suitable, qualified and experienced licensed water retailer to provide water and wastewater retail services for its eligible non-household sites in England. Through this procurement, Severn Trent Water intends to consolidate its eligible portfolio into a c…",
+   "cs": "2027-06-01",
+   "ce": "2030-06-01",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "FRA Remedial 2026-2029",
+   "b": "London & Quadrant Housing Trust",
+   "las": [],
+   "s": "environment",
+   "cpv": [
+    "03000000",
+    "31000000",
+    "35000000",
+    "44000000",
+    "45000000",
+    "48000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-061428",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-061428",
+   "st": "active",
+   "nd": "2026-11-23",
+   "ndt": "submit",
+   "v": 6750000,
+   "d": "FRA Remedials and remedial works across London and North West",
+   "cs": "2027-04-01",
+   "ce": "2030-03-29",
+   "sme": true,
+   "proc": "Open procedure",
+   "lots": 5,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Cytundeb Glanhau 2027-2030 Cleaning Contract",
+   "b": "Awdurdod Parc Cenedlaethol Eryri",
+   "las": [
+    "Gwynedd",
+    "Conwy",
+    "Denbighshire"
+   ],
+   "s": "environment",
+   "cpv": [
+    "90600000",
+    "90900000",
+    "98000000",
+    "39830000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-079008",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-079008",
+   "st": "active",
+   "ndt": "submit",
+   "v": 600000,
+   "d": "Bwriedir Awdurdod Parc Cenedlaethol Eryri wahodd tendrau ar gyfer darparu Gwasanaethau Glanhau Adeiladau ar gyfer amryw o eiddo am gyfnod o 3 blynedd yn cychwyn ar y 1af o Ebrill 2027. | The Eryri National Park Authority intends to seek tenders for the provision of Building Cleaning Services for a …",
+   "cs": "2027-04-01",
+   "ce": "2030-03-31",
+   "sme": true,
+   "proc": "Competitive flexible procedure",
+   "lots": 3,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "World Model for SCAT",
+   "b": "Velindre University NHS Trust - : Please note NHS Wales Shared Services Partnership will manage this procurement on behalf of the contracting authority. Due to having the same identifiers, we're unable to reflect this in the notice options",
+   "las": [
+    "Vale of Glamorgan",
+    "Cardiff"
+   ],
+   "s": "professional",
+   "cpv": [
+    "72200000",
+    "79410000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06da19",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-06da19",
+   "st": "active",
+   "nd": "2026-11-19",
+   "ndt": "submit",
+   "v": 50000,
+   "d": "Velindre University NHS Trust is seeking to procure a specialist supplier to design and develop a World Model for Systemic Anti-Cancer Therapy (SACT) delivery in support of the transition to the new Velindre Cancer Centre. The model will support strategic planning and operational decision-making by…",
+   "cs": "2027-01-01",
+   "ce": "2027-12-31",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Contract for Painting at Penlan",
+   "b": "City & County of Swansea",
+   "las": [
+    "Swansea"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45442100",
+    "45442110",
+    "45451000",
+    "45442000",
+    "45440000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078fb7",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078fb7",
+   "st": "active",
+   "nd": "2026-12-04",
+   "ndt": "submit",
+   "v": 115000,
+   "d": "Contract for Painting at Penlan, Swansea",
+   "cs": "2027-01-11",
+   "ce": "2027-05-04",
+   "sme": true,
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Provision of Private, Safe, and Secure Transportation for Patients within Mental Health and Learning Disabilities Service Group.",
+   "b": "Swansea Bay University Health Board",
+   "las": [
+    "Swansea",
+    "Neath Port Talbot"
+   ],
+   "s": "health",
+   "cpv": [
+    "85143000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-077b43",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-077b43",
+   "st": "active",
+   "nd": "2026-11-26",
+   "ndt": "submit",
+   "v": 623602,
+   "d": "Provision of Specialist Mental Health and Learning Disabilities Patient Transport Services for Swansea Bay University Health Board. The procurement seeks to establish a multi-supplier contractual arrangement for the safe, secure, dignified, and responsive transportation of patients requiring planne…",
+   "cs": "2026-12-21",
+   "ce": "2028-12-20",
+   "sme": true,
+   "vcse": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Contract for the Provision of Provision and Maintenance of Automated External Defibrillators (AEDs)",
+   "b": "Police and Crime Commissioner for South Wales",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "48180000",
+    "71317200"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078e85",
+   "cat": "Goods",
+   "id": "ocds-h6vhtk-078e85",
+   "st": "planned",
+   "nd": "2026-11-05",
+   "ndt": "publish",
+   "v": 140000,
+   "d": "This Specification sets out the requirements for the supply, installation, maintenance, servicing, and ongoing support of Automated External Defibrillators (AEDs) across the Commissioners premises and operational locations.",
+   "cs": "2027-02-01",
+   "ce": "2029-01-31",
+   "sme": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "BU452026- Digital Reconstruction of Former Hospital in North Wales",
+   "b": "Bangor University",
+   "las": [
+    "Gwynedd"
+   ],
+   "s": "professional",
+   "cpv": [
+    "71000000",
+    "72212520",
+    "72212190"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-077391",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-077391",
+   "st": "active",
+   "nd": "2026-11-20",
+   "ndt": "submit",
+   "v": 304750,
+   "d": "Bangor University requires a supplier to undertake the digital reconstruction of North Wales Hospital in Denbigh and develop an immersive visualisation environment that explores and communicates experiences of mental illness through architectural and spatial representation. The project forms part o…",
+   "cs": "2027-01-04",
+   "ce": "2030-01-03",
+   "sme": true,
+   "vcse": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Contract for Renewal of Rooves and installation of PV panels",
+   "b": "City & County of Swansea",
+   "las": [
+    "Swansea"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45261215",
+    "45260000",
+    "45320000",
+    "45000000",
+    "09332000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078e69",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078e69",
+   "st": "active",
+   "nd": "2026-11-06",
+   "ndt": "submit",
+   "v": 55000,
+   "d": "Contract for Renewal of Rooves and installation of PV panels at 75, 77, 79 & 81 Gwynfor Road, Cockett, Swansea SA2 0XE",
+   "cs": "2026-12-14",
+   "ce": "2027-03-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "lc": 1,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "DCC Wastewater Sludge Cake Haulage",
+   "b": "Dwr Cymru Cyfyngedig",
+   "las": [],
+   "s": "environment",
+   "cpv": [
+    "90513700"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078e63",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078e63",
+   "st": "active",
+   "nd": "2026-11-18",
+   "ndt": "submit",
+   "v": 6000000,
+   "d": "Dŵr Cymru Welsh Water (DCWW) is seeking suitably qualified and experienced suppliers to provide wastewater sludge cake haulage services across four Lots: - **Lot 1 – Intercompany Haulage (North Wales)** - **Lot 2 – Intercompany Haulage (South Wales)** - **Lot 3 – Cake-to-Land Haulage (North Wales)*…",
+   "vinc": true,
+   "cs": "2027-04-01",
+   "ce": "2031-03-31",
+   "proc": "Competitive flexible procedure",
+   "lots": 4,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "ERCF2509N 05 Waterloo Cottage",
+   "b": "Conwy County Borough Council",
+   "las": [
+    "Conwy"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078e24",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078e24",
+   "st": "active",
+   "nd": "2026-11-19",
+   "ndt": "submit",
+   "v": 275000,
+   "d": "Conwy County Borough Council is seeking a Contractor to undertake the below works in the county of Conwy, postcode LL22 8RH. The existing concrete bag retaining wall supporting Waterloo Hill has deteriorated beyond repair and is at risk of failure. The scheme will replace and stabilise the structur…",
+   "cs": "2027-01-18",
+   "ce": "2027-04-09",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Provision of Digital Customer Engagement Platform",
+   "b": "Codi Group Ltd",
+   "las": [
+    "Swansea",
+    "Vale of Glamorgan",
+    "Cardiff",
+    "Monmouthshire",
+    "Newport"
+   ],
+   "s": "professional",
+   "cpv": [
+    "48000000",
+    "72000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078e15",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078e15",
+   "st": "active",
+   "nd": "2026-11-25",
+   "ndt": "submit",
+   "v": 200000,
+   "d": "The Group intends to establish a contract for the procurement of a digital customer engagement platform. Codi have recently launched the new, innovative customer influence framework which resets how customers influence our business. The online platform is one of the strands of this influence framew…",
+   "cs": "2027-01-04",
+   "ce": "2028-12-22",
+   "sme": true,
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "GLLM-ITT-64480 - 3G Pitch Upgrade - Rhos-On-Sea Campus",
+   "b": "Grwp Llandrillo Menai",
+   "las": [
+    "Conwy",
+    "Denbighshire"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45432100",
+    "45432110",
+    "45432111",
+    "45453100",
+    "45454100"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078ded",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078ded",
+   "st": "active",
+   "nd": "2026-11-19",
+   "ndt": "submit",
+   "v": 331000,
+   "d": "Grŵp Llandrillo Menai (GLLM) is seeking tenders from suitably qualified and experienced contractors for the upgrade of the existing 3G artificial grass football pitch at its Rhos-on-Sea Campus. The works will be undertaken in accordance with the technical specification, design and Schedule of Works…",
+   "cs": "2026-12-17",
+   "ce": "2027-03-31",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "5521 - Cwm Ifor Primary School - Installation of Pedestrian Control Gate",
+   "b": "Caerphilly County Borough Council",
+   "las": [
+    "Caerphilly"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45310000",
+    "51100000",
+    "71314100",
+    "71334000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078d99",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078d99",
+   "st": "active",
+   "nd": "2026-11-13",
+   "ndt": "submit",
+   "v": 35000,
+   "d": "You are invited to submit a tender for the Installation of access control to the front pedestrian gate at Cwm Ifor Primary School Caerphilly. The scope of the project is fully described in Appendix 1 but in summary the scope is: 1. Excavate Trench from Pedestrian gate up to the school Plant room an…",
+   "cs": "2026-12-01",
+   "ce": "2027-01-29",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "5486 - Bryn Awel Primary School - Installation of Pedestrian Control Gate",
+   "b": "Caerphilly County Borough Council",
+   "las": [
+    "Caerphilly"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45310000",
+    "51100000",
+    "71314100",
+    "71334000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078d97",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078d97",
+   "st": "active",
+   "nd": "2026-11-13",
+   "ndt": "submit",
+   "v": 35000,
+   "d": "You are invited to submit a tender for the automation of the main pedestrian gate at Bryn Awel Primary School Rhymey. The scope of the project is fully described in Appendix 1 but in summary the scope is: 1 Excavate Trench from Pedestrian gate up to rear Plant room and insert cables. 2 Inspection c…",
+   "cs": "2026-11-23",
+   "ce": "2026-12-17",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "QW Planned and Reactive Facilities Management Services",
+   "b": "Qualifications Wales",
+   "las": [],
+   "s": "construction",
+   "cpv": [
+    "50700000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078b2e",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078b2e",
+   "st": "active",
+   "nd": "2026-11-30",
+   "ndt": "submit",
+   "v": 133333,
+   "d": "Tender to award a Framework Agreement for a three-year period, with the option to extend for up to two further years, to provide Facilities Management Services at Qualifications Wales. Planned and Reactive Facilities Management Services • Statutory Inspections and Maintenance • Planned Preventative…",
+   "cs": "2027-03-01",
+   "ce": "2030-02-28",
+   "sme": true,
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Lone Worker Devices",
+   "b": "Cardiff and Vale University Health Board",
+   "las": [
+    "Vale of Glamorgan",
+    "Cardiff"
+   ],
+   "s": "professional",
+   "cpv": [
+    "79711000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078d2d",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078d2d",
+   "st": "pme",
+   "nd": "2026-10-28",
+   "ndt": "engage",
+   "d": "Cardiff & Vale University Health Board is seeking a provider to deliver a managed lone worker safety solution. The contract will include the provision of lone worker technology, monitoring services, management software, implementation, training, support and ongoing account management. The solution …",
+   "cs": "2027-01-15",
+   "ce": "2030-01-14",
+   "sme": true,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Contractor Portal and Integration Solution",
+   "b": "ClwydAlyn Housing",
+   "las": [
+    "Conwy",
+    "Denbighshire"
+   ],
+   "s": "professional",
+   "cpv": [
+    "72200000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078d09",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078d09",
+   "st": "pme",
+   "nd": "2026-11-06",
+   "ndt": "engage",
+   "d": "This notice relates to a preliminary market engagement exercise under the Procurement Act 2023. The contracting authority is issuing this UK2 notice to share background documentation, context, and preliminary information regarding the upcoming procurement project. To view the project description, c…",
+   "cs": "2027-01-01",
+   "ce": "2030-12-31",
+   "sme": true,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Cymru Can Strategy Review",
+   "b": "Future Generations Commissioner for Wales",
+   "las": [
+    "Vale of Glamorgan",
+    "Cardiff"
+   ],
+   "s": "research",
+   "cpv": [
+    "73000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0789a8",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-0789a8",
+   "st": "active",
+   "nd": "2026-11-09",
+   "ndt": "submit",
+   "v": 12500,
+   "d": "Full invitation to tender document (in Welsh & English) is downloadable from the Additional Documents section. Tender submission must be made via Sell2Wales only. The Future Generations Commissioner for Wales is seeking proposals for expert research and evaluation support to provide an independent …",
+   "cs": "2026-11-30",
+   "ce": "2027-03-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "cyl": 1,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Provision of a Crisis Worker Service in Sexual Assault Referral Centres",
+   "b": "Police and Crime Commissioner for South Wales",
+   "las": [
+    "Ceredigion",
+    "Pembrokeshire",
+    "Carmarthenshire",
+    "Swansea",
+    "Neath Port Talbot",
+    "Bridgend",
+    "Vale of Glamorgan",
+    "Cardiff",
+    "Rhondda Cynon Taf",
+    "Caerphilly",
+    "Blaenau Gwent",
+    "Torfaen",
+    "Monmouthshire",
+    "Newport",
+    "Powys",
+    "Merthyr Tydfil"
+   ],
+   "s": "health",
+   "cpv": [
+    "85312300",
+    "85312310",
+    "85312320"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06cad4",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-06cad4",
+   "st": "active",
+   "nd": "2026-11-16",
+   "ndt": "submit",
+   "v": 936600,
+   "d": "The Police and Crime Commissioner for South Wales, also acting on behalf of the Police and Crime Commissioners for Gwent and Dyfed Powys, are seeking to appoint a single supplier to deliver a crisis worker service across the region. The contract start date may be between 1st January 2027 and 1st Ap…",
+   "cs": "2027-01-01",
+   "ce": "2028-03-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Penetration Testing",
+   "b": "Senedd Cymru / Welsh Parliament",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "72000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078c98",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078c98",
+   "st": "active",
+   "nd": "2026-11-24",
+   "ndt": "submit",
+   "v": 80000,
+   "d": "The Senedd is looking to procure a penetration testing service to provide independent assurance over the security of its technology estate and to identify vulnerabilities that may expose the organisation to cyber security risk. The contract will include the planning, execution and reporting of pene…",
+   "cs": "2026-12-11",
+   "ce": "2030-12-10",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Tender for FTIR monitoring solution for DRE in semiconductor gaseous abatement systems",
+   "b": "Swansea University",
+   "las": [
+    "Swansea"
+   ],
+   "s": "research",
+   "cpv": [
+    "38000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078c93",
+   "cat": "Goods",
+   "id": "ocds-h6vhtk-078c93",
+   "st": "active",
+   "nd": "2026-11-09",
+   "ndt": "submit",
+   "v": 150000,
+   "d": "The Faculty of Science and Engineering at Swansea University is seeking to procure a complete, turnkey FTIR-based system for determining Destruction or Removal Efficiency (DRE) of semiconductor point-of-use abatement systems. This equipment will be housed in the Centre for Integrative Semiconductor…",
+   "cs": "2026-11-27",
+   "ce": "2031-11-26",
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Insurance Broker Service",
+   "b": "Senedd Cymru / Welsh Parliament",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "66518100"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078c92",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078c92",
+   "st": "pme",
+   "nd": "2026-11-09",
+   "ndt": "engage",
+   "v": 30000,
+   "d": "The Welsh Parliament (Senedd Cymru) is undertaking preliminary market engagement to inform the potential future procurement of Insurance Broker Services. As part of this early-stage activity, we are inviting interested suppliers to submit a short questionnaire designed to help us understand current…",
+   "cs": "2027-02-08",
+   "ce": "2033-02-07",
+   "sme": true,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Roof/Internal access equipment survey and remediation works Framework",
+   "b": "Cardiff University",
+   "las": [
+    "Cardiff"
+   ],
+   "s": "professional",
+   "cpv": [
+    "71312000",
+    "45340000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078c59",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078c59",
+   "st": "active",
+   "nd": "2026-11-26",
+   "ndt": "submit",
+   "v": 533333,
+   "d": "This Procurement is to establish a framework agreement with one supplier for Roof/Internal access equipment survey and remediation works. 78% of the value of this framework is classed as a works framework with an associated survey/service element. This framework is being established to have all int…",
+   "cs": "2027-03-01",
+   "ce": "2030-02-28",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Framework Agreement for DNA, Drug and Alcohol Testing Services",
+   "b": "City & County of Swansea",
+   "las": [
+    "Swansea"
+   ],
+   "s": "health",
+   "cpv": [
+    "85145000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06ee82",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-06ee82",
+   "st": "active",
+   "nd": "2026-11-16",
+   "ndt": "submit",
+   "v": 700000,
+   "d": "Swansea Council is seeking to establish a Framework Agreement for the provision of accredited testing services to support safeguarding, social care, legal proceedings and associated statutory functions. The Framework will comprise two Lots: Lot 1 Drug and Alcohol Testing Services Lot 2 DNA Testing …",
+   "cs": "2027-01-11",
+   "ce": "2032-01-10",
+   "sme": true,
+   "vcse": true,
+   "tool": true,
+   "proc": "Open procedure",
+   "lots": 2,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Provision of Design and Technology Machinery Safety and Local Exhaust Ventilation (LEV) Examination Services",
+   "b": "Caerphilly County Borough Council",
+   "las": [
+    "Caerphilly"
+   ],
+   "s": "professional",
+   "cpv": [
+    "71631100",
+    "71630000",
+    "71315410",
+    "71321400"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078c0a",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078c0a",
+   "st": "active",
+   "nd": "2026-11-10",
+   "ndt": "submit",
+   "v": 60000,
+   "d": "Caerphilly County Borough Council (\"the Authority\") invites tenders from suitably qualified and experienced Providers for the provision of statutory inspection, examination, testing, certification and reporting services relating to Design and Technology (D&T) machinery and Local Exhaust Ventilation…",
+   "cs": "2027-01-01",
+   "ce": "2029-12-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "lots": 2,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Time to Talk Public Health: Delivery of a national population panel",
+   "b": "Public Health Wales NHS Trust",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "79300000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078bd8",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078bd8",
+   "st": "pme",
+   "nd": "2026-11-03",
+   "ndt": "engage",
+   "v": 60000,
+   "d": "TTPH is a broadly nationally representative panel of around 2,500 people aged 16+ years who are resident in Wales. We deliver national bilingual (Welsh and English) surveys with the panel, achieving a minimum survey sample of 1,000 people, who are broadly representative of the population of Wales. …",
+   "cs": "2028-04-03",
+   "ce": "2031-03-31",
+   "sme": true,
+   "vcse": true,
+   "cyl": 1,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Sgwd cllun gwyn uchaf viewing point",
+   "b": "Natural Resources Wales",
+   "las": [],
+   "s": "construction",
+   "cpv": [
+    "45000000",
+    "71000000",
+    "44000000",
+    "92000000",
+    "77000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078b98",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078b98",
+   "st": "active",
+   "nd": "2026-11-19",
+   "ndt": "submit",
+   "v": 350000,
+   "d": "Natural Resources Wales (NRW) is inviting tenders for a land management contract in the Mid South region. The successful contractor will deliver a formal viewing area scheme within the Coed y Rhaiadr forest, overlooking the Sgwd Clun Gwyn Uchaf Waterfall. Key project deliverables include Two design…",
+   "cs": "2027-01-04",
+   "ce": "2027-03-31",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "UK1 Pipeline Notice NRW River Restoration All Wales Framework",
+   "b": "Natural Resources Wales",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "70332100"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078b8f",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078b8f",
+   "st": "pipeline",
+   "nd": "2027-04-01",
+   "ndt": "publish",
+   "v": 10000000,
+   "d": "This is a pipeline notice to alert the market to a forthcoming tender opportunity during Spring 2027. NRW is renewing its existing River Restoration All Wales Framework and aims to appoint multiple suppliers across multiple geographical lot areas to carry out a range of services. The work includes …",
+   "cs": "2027-09-01",
+   "ce": "2031-08-31",
+   "sme": true,
+   "vcse": true,
+   "tool": true,
+   "proc": "Competitive flexible procedure",
+   "lc": 1,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Tipping and Waste Disposal Framework Agreement - Ref 01044",
+   "b": "Tai Tarian Ltd",
+   "las": [
+    "Swansea",
+    "Neath Port Talbot",
+    "Bridgend"
+   ],
+   "s": "environment",
+   "cpv": [
+    "90510000",
+    "90530000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078b88",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078b88",
+   "st": "active",
+   "nd": "2026-12-01",
+   "ndt": "submit",
+   "v": 240000,
+   "d": "Tipping and Waste Disposal Framework Agreement Tender Notice",
+   "cs": "2027-01-14",
+   "ce": "2031-01-13",
+   "sme": true,
+   "vcse": true,
+   "tool": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Contract for Supply, Installation & Maintenance of Digital Destination Signage",
+   "b": "City & County of Swansea",
+   "las": [
+    "Swansea"
+   ],
+   "s": "transport",
+   "cpv": [
+    "34000000",
+    "45000000",
+    "50000000",
+    "44000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078b87",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078b87",
+   "st": "active",
+   "nd": "2026-11-16",
+   "ndt": "submit",
+   "v": 240000,
+   "d": "Swansea Councils Special Events Team organise large scale events, the programme of events covers many venues in outdoor parks and spaces throughout Swansea. The scale of each event varies from 200 to 250,000 people. To share event related information, promote cultural awareness, share Council news …",
+   "cs": "2027-01-05",
+   "ce": "2030-01-04",
+   "sme": true,
+   "vcse": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Integrated human resources, payroll and workforce management system",
+   "b": "Hafod Housing Association Limited",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "79200000",
+    "79600000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078b79",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078b79",
+   "st": "pme",
+   "nd": "2026-11-06",
+   "ndt": "engage",
+   "v": 1,
+   "d": "Hafod is seeking tenders for a modern information system solution combining HR management, payroll processing and workforce management. The solution must support approximately 1,100 active employees which may hold multiple posts within the organisation and as such must be able to make independent c…",
+   "vinc": true,
+   "cs": "2027-04-01",
+   "ce": "2032-03-31",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Specialist Data Engineering and Cloud Engineering Support - Public Health Wales",
+   "b": "Public Health Wales NHS Trust",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "72200000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078b6d",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078b6d",
+   "st": "pme",
+   "nd": "2026-10-27",
+   "ndt": "engage",
+   "v": 67000,
+   "d": "Public Health Wales is undertaking digital and data transformation across its Research, Data and Digital Directorate. This includes delivery of the National Data Asset Platform (NDAP), a component of the Welsh Government-funded National Data Resource programme, and the Data, Analysis, Registers and…",
+   "cs": "2026-11-30",
+   "ce": "2027-03-31",
+   "sme": true,
+   "vcse": true,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "SF6 Recycle and Re-use Framework",
+   "b": "National Grid UK Limited",
+   "las": [],
+   "s": "transport",
+   "cpv": [
+    "24100000",
+    "63121110"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078ad9",
+   "xb": true,
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078ad9",
+   "st": "active",
+   "ndt": "submit",
+   "v": 1110000,
+   "d": "National Grid intends to tender for the provision of a comprehensive SF6 (sulphur hexafluoride) management service to support the recovery, reuse, storage, treatment, distribution and disposal of National Grid-owned SF6. The contract will support National Grid's objectives of maximising reuse, redu…",
+   "vinc": true,
+   "cs": "2027-03-01",
+   "ce": "2030-02-28",
+   "sme": true,
+   "tool": true,
+   "proc": "Competitive flexible procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Air Conditioning Service & Maintenance",
+   "b": "Cardiff University",
+   "las": [
+    "Cardiff"
+   ],
+   "s": "construction",
+   "cpv": [
+    "50712000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0780d1",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-0780d1",
+   "st": "active",
+   "nd": "2026-11-13",
+   "ndt": "submit",
+   "v": 8837500,
+   "d": "Procurement to deliver planned, reactive and remedial air-conditioning (AC) maintenance services across Cardiff University's estate. The proposed contract will cover approximately 2,500 AC and cooling assets and will be awarded for an initial three-year term with fixed costs for the 3 year period, …",
+   "cs": "2027-04-01",
+   "ce": "2030-03-31",
+   "sme": true,
+   "proc": "Competitive flexible procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Gwasanaethau Toeau - Gwaith cyfalaf wedi'i gynllunio ac atgyweiriadau ymatebol / Roofing Services - Planned capital works and responsive repairs",
+   "b": "Denbighshire County Council",
+   "las": [
+    "Denbighshire"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45261900",
+    "45261100",
+    "45261210",
+    "45261320",
+    "45261410",
+    "45261000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078ab8",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078ab8",
+   "st": "active",
+   "nd": "2026-11-16",
+   "ndt": "submit",
+   "v": 4130000,
+   "d": "Mae Cyngor Sir Ddinbych yn gwahodd tendrau ar gyfer gwasanaethau toeau ar gyfer ei stoc dai o tua 3,441 o eiddo ledled Sir Ddinbych. Bydd gan y cytundeb 2 lot : Lot 1 : Gwaith wedi'i gynllunio/gwaith cyfalaf - gweler isod am disgrifiad Saesneg y lotiau Lot 2 : Gwaith ymatebol/atgyweirio - gweler is…",
+   "cs": "2027-01-04",
+   "ce": "2030-01-03",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "lots": 2,
+   "lc": 1,
+   "cyl": 1,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Construction of the Chiropractic Car Park, Treforest Campus",
+   "b": "University of South Wales",
+   "las": [],
+   "s": "construction",
+   "cpv": [
+    "45233100",
+    "45233220",
+    "45233300",
+    "45233320"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078a63",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078a63",
+   "st": "active",
+   "nd": "2026-11-27",
+   "ndt": "submit",
+   "v": 500000,
+   "d": "Invitation to tender for Construction of the Chiropractic Car Park, Treforest Campus 1.2.1. The University of South Wales is completing the new Calon building for its Chiropractic clinic on the Treforest Campus, Pontypridd, on the site of the former D and K Blocks. This tender is for the constructi…",
+   "cs": "2027-02-01",
+   "ce": "2027-04-16",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Gwelliannau i / Improvement works to the ‘Materials Recovery Facility’ (MRF) Ystâd Ddiwydiannol Cibyn, Caernarfon, Gwynedd, LL55 2BD",
+   "b": "Cyngor Gwynedd",
+   "las": [
+    "Gwynedd"
+   ],
+   "s": "construction",
+   "cpv": [
+    "45262640"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078a24",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-078a24",
+   "st": "active",
+   "nd": "2026-12-10",
+   "ndt": "submit",
+   "v": 1200000,
+   "d": "The Authority has recently secured additional floor space within the Materials Recycling Facility (MRF) following the relocation of the confidential paper shredding operation to another area of the depot. This additional space presents an opportunity to redesign and optimise the existing MRF layout…",
+   "cs": "2027-02-25",
+   "ce": "2029-02-26",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Post Office Branch - Ruabon",
+   "b": "Post Office Limited",
+   "las": [
+    "Flintshire",
+    "Wrexham"
+   ],
+   "s": "professional",
+   "cpv": [
+    "64114000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0789f4",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-0789f4",
+   "st": "active",
+   "nd": "2027-01-15",
+   "ndt": "submit",
+   "v": 12600,
+   "d": "Post Office Ltd is looking for a successful retailer to incorporate a Post Office Local into their existing or proposed business. The offer available in this Post Office would be: Post Office Local - integrating Post Office services into a vibrant and sustainable retail business, so they can be off…",
+   "vinc": true,
+   "cs": "2027-03-15",
+   "ce": "2077-03-15",
+   "sme": true,
+   "vcse": true,
+   "proc": "Competitive flexible procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Ecology Survey",
+   "b": "Severn Trent Water Limited",
+   "las": [],
+   "s": "environment",
+   "cpv": [
+    "90700000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06f56c",
+   "xb": true,
+   "cat": "Services",
+   "id": "ocds-h6vhtk-06f56c",
+   "st": "active",
+   "nd": "2026-11-20",
+   "ndt": "submit",
+   "v": 40000000,
+   "d": "The Supplier will be able to undertake all types of Ecological Surveys and support work, including but not limited to: • Preliminary Ecological Assessments • Use of HERT Tool • Production of reinstatement plan • Production of Biodiversity net gain plan for planning • EIA documents • UKHab Assessmen…",
+   "vinc": true,
+   "cs": "2027-04-01",
+   "ce": "2030-04-01",
+   "sme": true,
+   "tool": true,
+   "proc": "Competitive flexible procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Provision of Tier 2 Oral Surgery in North Wales",
+   "b": "Betsi Cadwaladr University Health Board",
+   "las": [
+    "Isle of Anglesey",
+    "Gwynedd",
+    "Conwy",
+    "Denbighshire",
+    "Flintshire",
+    "Wrexham"
+   ],
+   "s": "health",
+   "cpv": [
+    "85130000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078977",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078977",
+   "st": "pipeline",
+   "nd": "2026-10-17",
+   "ndt": "publish",
+   "v": 176358,
+   "d": "Provision of Tier 2 Oral Surgery in North Wales",
+   "lots": 3,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Specialist Consultancy Services for the South West Wales Datgloi Powering Cleaner Rivers Project",
+   "b": "Pembrokeshire County Council",
+   "las": [
+    "Pembrokeshire"
+   ],
+   "s": "environment",
+   "cpv": [
+    "90711000",
+    "90713000",
+    "71800000",
+    "73000000",
+    "71241000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078770",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078770",
+   "st": "active",
+   "nd": "2026-11-11",
+   "ndt": "submit",
+   "v": 250000,
+   "d": "Pembrokeshire County Council on behalf of the South West Wales Corporate Joint Committee is developing the South West Wales DATGLOI Powering Cleaner Rivers project to explore how catchment-scale anaerobic digestion can support Wales’s climate change and nature recovery targets by bringing together …",
+   "cs": "2026-12-14",
+   "ce": "2027-03-31",
+   "sme": true,
+   "proc": "Open procedure",
+   "lc": 1,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Growing Mid Wales Datgloi Project - Specialist Consultancy Services / Prosiect Datgloi Canolbarth Cymru sy'n Tyfu - Gwasanaethau Ymgynghori Arbenigol",
+   "b": "Ceredigion County Council",
+   "las": [
+    "Ceredigion"
+   ],
+   "s": "energy",
+   "cpv": [
+    "71314300",
+    "71356000",
+    "71314200",
+    "79314000",
+    "77231000",
+    "90713000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0780df",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-0780df",
+   "st": "active",
+   "nd": "2026-11-09",
+   "ndt": "submit",
+   "v": 250000,
+   "d": "Ceredigion County Council, on behalf of the Growing Mid Wales (GMW) Board, is seeking to appoint a suitably qualified and experienced consultancy organisation to provide specialist technical services in support of the Datgloi forestry project. The project builds on previous research exploring the p…",
+   "cs": "2026-12-07",
+   "ce": "2027-03-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Open procedure",
+   "lc": 1,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Collections and processing of Hard Plastics",
+   "b": "City & County of Swansea",
+   "las": [
+    "Swansea"
+   ],
+   "s": "environment",
+   "cpv": [
+    "90510000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0788ba",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-0788ba",
+   "st": "pme",
+   "nd": "2026-11-11",
+   "ndt": "engage",
+   "v": 250000,
+   "d": "Collection and processing of hard plastics from Swansea Council recycling centres.",
+   "cs": "2027-04-01",
+   "ce": "2028-04-01",
+   "sme": true,
+   "vcse": true,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "B981 - Provision of a Home Delivery Service for Eco-friendly Menstrual Products for Bridgend County Borough Council",
+   "b": "Bridgend County Borough Council",
+   "las": [
+    "Bridgend"
+   ],
+   "s": "health",
+   "cpv": [
+    "33771000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06fac8",
+   "cat": "Goods",
+   "id": "ocds-h6vhtk-06fac8",
+   "st": "active",
+   "nd": "2026-11-10",
+   "ndt": "submit",
+   "v": 320000,
+   "d": "Bridgend County Borough Council are looking for a single organisation to provide a Home Delivery Service for Eco-friendly Menstrual Products for Bridgend County Borough Council.",
+   "cs": "2026-12-07",
+   "ce": "2027-03-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Proc-26-78 | Interactive Bus, Community Focused School",
+   "b": "Wrexham County Borough Council",
+   "las": [
+    "Wrexham"
+   ],
+   "s": "transport",
+   "cpv": [
+    "34100000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0788a3",
+   "cat": "Goods",
+   "id": "ocds-h6vhtk-0788a3",
+   "st": "active",
+   "nd": "2026-11-16",
+   "ndt": "submit",
+   "v": 80000,
+   "d": "Wrexham County Borough Council (WCBC) is committed to the development of Community Focused approaches that strengthen engagement with families, communities and partner agencies. The Council recognises the importance of bringing services closer to residents, reducing barriers to access and supportin…",
+   "cs": "2027-01-01",
+   "ce": "2027-03-31",
+   "sme": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "NRW 4x4 Training Framework 2027",
+   "b": "Natural Resources Wales",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "79632000",
+    "80500000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078899",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078899",
+   "st": "planned",
+   "nd": "2026-12-01",
+   "ndt": "publish",
+   "v": 120000,
+   "d": "This UK3 notice provides advance notice of a forthcoming procurement opportunity. Natural Resources Wales (NRW) is seeking to establish a Framework Agreement for the provision of 4x4 vehicle training services. The proposed framework will be divided into four geographical lots covering North Wales, …",
+   "cs": "2027-05-01",
+   "ce": "2029-04-30",
+   "sme": true,
+   "tool": true,
+   "proc": "Open procedure",
+   "lots": 4,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Inspection, Testing and Maintenance of Low-Voltage Switchgear",
+   "b": "Cwm Taf Morgannwg University Health Board",
+   "las": [
+    "Rhondda Cynon Taf",
+    "Merthyr Tydfil"
+   ],
+   "s": "construction",
+   "cpv": [
+    "50711000",
+    "50532000",
+    "45315600",
+    "45310000",
+    "71314100"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078858",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078858",
+   "st": "active",
+   "nd": "2026-11-13",
+   "ndt": "submit",
+   "v": 200000,
+   "d": "This Invitation to Tender (ITT) is issued by NHS Wales Shared Services Partnership Procurement Services (hosted by Velindre NHS Trust) (\"NWSSP\") on behalf of Cwm Taf Morgannwg University Health Board (\"the Health Board\"), which will enter into the Agreement with the successful supplier. Cwm Taf Mor…",
+   "cs": "2027-01-11",
+   "ce": "2030-01-10",
+   "sme": true,
+   "proc": "Open procedure",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Youth Healthy Relationships Service",
+   "b": "Cardiff Council",
+   "las": [
+    "Cardiff"
+   ],
+   "s": "health",
+   "cpv": [
+    "85000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078849",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078849",
+   "st": "active",
+   "nd": "2026-11-16",
+   "ndt": "submit",
+   "v": 495000,
+   "d": "B2 THE YOUTH HEALTHY RELATIONSHIPS SERVICE WILL SUPPORT IDENTIFIED CHILDREN AND YOUNG PEOPLE WITH REGARD TO ENSURING SAFE AND HEALTHY PERSONAL RELATIONSHIPS, ESPECIALLY RIGHTS AND RESPONSIBILITIES REGARDING SEXUAL BEHAVIOUR AND RELATIONSHIPS. THE SERVICE WILL PROVIDE ADVICE ON SAFE SEXUAL HEALTH, C…",
+   "cs": "2027-02-01",
+   "ce": "2028-01-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "COMMUNITY MENTAL HEALTH ADVOCACY SERVICE",
+   "b": "Cardiff and Vale University Health Board",
+   "las": [
+    "Vale of Glamorgan",
+    "Cardiff"
+   ],
+   "s": "health",
+   "cpv": [
+    "85312300"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078816",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078816",
+   "st": "pipeline",
+   "nd": "2026-11-16",
+   "ndt": "publish",
+   "v": 258135,
+   "d": "Cardiff and Vale University Health Board is seeking market engagement in relation to the future provision of a Community Mental Health Advocacy Service for adults aged 18 and over residing in Cardiff and the Vale of Glamorgan. The service will provide independent, confidential, rights-based advocac…",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "IBM SPSS LICENSING SOLUTIONS - PUBLIC HEALTH WALES",
+   "b": "Public Health Wales NHS Trust",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "72000000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078812",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078812",
+   "st": "pme",
+   "nd": "2026-10-29",
+   "ndt": "engage",
+   "v": 30000,
+   "d": "Public Health Wales (PHW) currently uses IBM SPSS Statistics to support a range of public health, research, analytical, evaluation and intelligence functions across the organisation. The primary objective is to identify the most cost-effective, flexible and sustainable licensing model that enables …",
+   "cs": "2027-05-01",
+   "ce": "2028-04-30",
+   "sme": true,
+   "vcse": true,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "BCU-FTS-63146-MAINTEANCE AND TESTING OF ALL ENDOSCOPE DRYING CABINETS ACROSS BETSI CADWALADR UNIVERSITY HEALTH BOARD",
+   "b": "Betsi Cadwaladr University Health Board",
+   "las": [
+    "Isle of Anglesey",
+    "Gwynedd",
+    "Conwy",
+    "Denbighshire",
+    "Flintshire",
+    "Wrexham"
+   ],
+   "s": "construction",
+   "cpv": [
+    "50000000",
+    "38500000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0787d0",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-0787d0",
+   "st": "active",
+   "nd": "2026-11-16",
+   "ndt": "submit",
+   "v": 418200,
+   "d": "Betsi Cadwaladr University Health Board (BCUHB) require a suitably qualified contractor to cover the servicing, repairing and validation testing of all drying cabinets/scope stores across the Health Board. Betsi Cadwaladr University Health Board recognises the importance of the Welsh Language to th…",
+   "cs": "2027-02-01",
+   "ce": "2030-01-31",
+   "sme": true,
+   "proc": "Open procedure",
+   "cyl": 1,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Supply & Installation of Flooring",
+   "b": "Wales and West Housing Association Ltd",
+   "las": [],
+   "s": "construction",
+   "cpv": [
+    "45430000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0787bd",
+   "cat": "Works",
+   "id": "ocds-h6vhtk-0787bd",
+   "st": "active",
+   "nd": "2026-11-16",
+   "ndt": "submit",
+   "v": 2500000,
+   "d": "Wales & West Housing Group (WWHG) is seeking to appoint suitably experienced and qualified suppliers to provide a responsive, high-quality flooring supply and installation service across its housing portfolio throughout Wales. The service will form a key part of WWH's commitment to providing safe, …",
+   "cs": "2027-01-01",
+   "ce": "2028-12-31",
+   "sme": true,
+   "vcse": true,
+   "proc": "Below threshold - open competition",
+   "lots": 5,
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Provision of Merchant Acquirer Services",
+   "b": "Department for Transport",
+   "las": [],
+   "s": "professional",
+   "cpv": [
+    "66110000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-029d3d",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-029d3d",
+   "st": "pipeline",
+   "ndt": "publish",
+   "d": "The Agreement is for the services of a Merchant Acquirer to facilitate credit and debit card processing on behalf of the Authority within the following environments: - • Internet • Cardholder present • Cardholder not present The service to be provided will include as a minimum: • Transaction proces…",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "THIRD SECTOR PEER LIAISON",
+   "b": "Cardiff and Vale University Health Board",
+   "las": [
+    "Vale of Glamorgan",
+    "Cardiff"
+   ],
+   "s": "health",
+   "cpv": [
+    "85323000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078789",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078789",
+   "st": "pipeline",
+   "nd": "2026-11-16",
+   "ndt": "publish",
+   "v": 60000,
+   "d": "Cardiff and Vale University Health Board is seeking market engagement in relation to the future provision of a Third Sector Mental Health Liaison Service across Cardiff and the Vale of Glamorgan. The service will provide a dedicated liaison and coordination function between the Health Board, third …",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Market Engagement for the Future Provision of Healthcare Services under a Provider Selection Regime (PSR) Framework",
+   "b": "Countess of Chester Hospital NHS Foundation Trust",
+   "las": [],
+   "s": "health",
+   "cpv": [
+    "85100000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0786c2",
+   "xb": true,
+   "cat": "Services",
+   "id": "ocds-h6vhtk-0786c2",
+   "st": "pipeline",
+   "nd": "2027-04-01",
+   "ndt": "publish",
+   "d": "The purpose of this engagement notice is to invite suppliers to participate in preliminary market engagement to help inform the Authority's future requirements and support the development of potential new PSR Framework Agreements and associated tender documentation.",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "PROVISION OF OPTOMETRY SERVICES FOR HMP CARDIFF",
+   "b": "Cardiff and Vale University Health Board",
+   "las": [
+    "Vale of Glamorgan",
+    "Cardiff"
+   ],
+   "s": "health",
+   "cpv": [
+    "85160000"
+   ],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-078673",
+   "cat": "Services",
+   "id": "ocds-h6vhtk-078673",
+   "st": "pipeline",
+   "nd": "2026-11-23",
+   "ndt": "publish",
+   "v": 32400,
+   "d": "Cardiff and Vale University Health Board is seeking a provider to deliver comprehensive optometry services at HMP Cardiff, including eye examinations, diagnosis and management of visual and ocular conditions, provision of spectacles where required, and referrals to secondary care. The service will …",
+   "fa": "2026-10-27"
+  },
+  {
+   "t": "Contract for Special Events PA and Equipment Hire",
+   "b": "City & County of Swansea",
+   "las": [
+    "Swansea"
+   ],
+   "s": "professional",
+   "cpv": [],
+   "src": "Find a Tender",
+   "u": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-06814c",
+   "id": "ocds-h6vhtk-06814c",
+   "st": "pipeline",
+   "ndt": "publish",
+   "fa": "2026-10-27"
+  }
+ ]
+}
